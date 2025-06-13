@@ -7,7 +7,7 @@ Este projeto apresenta um dashboard desenvolvido no **Power BI**, com foco na an
 
 ## 🖼️ Preview
 
-Acompanhamento-vendas/Imagens/dashboard.png
+![Acompanhamento-vendas](imagens/dashboard.png)
 
 ---
 
