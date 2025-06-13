@@ -47,6 +47,5 @@ O dashboard foi desenvolvido com foco em:
 
 Caso tenha dúvidas ou queira conversar sobre o projeto:
 
-**Deivid Damásio*  
-📫 [Seu email ou LinkedIn aqui]  
-🔗 [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
+**Deivid Damásio**  
+  🔗 [linkedin.com/in/seu-perfil](https://www.linkedin.com/in/deivid-dam%C3%A1sio-26691b142/)
